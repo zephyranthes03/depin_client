@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+__pycache__/
+lib/
+bin/
+**/*.mkv
+**/*.mp4
+**/*.avi
+**/*.mov
+streaming/
+uploads/
+.env
